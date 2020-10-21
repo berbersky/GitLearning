@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "Monsters",
   "version": "0.1.0",
   "private": false,
   "homepage": "https://berbersky.github.io/Monsters",
@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Fun app arround monsters",
+  "main": "index.js",
+  "repository": "https://github.com/berbersky/GitLearning.git",
+  "author": "berbersky <sofiane1575@gmail.com>",
+  "license": "MIT"
 }
