@@ -1,0 +1,12 @@
+.card-list {
+  width: calc(100% - 20px);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(222px, min-content));
+  grid-template-rows: 1fr;
+  grid-gap: 20px;
+  place-content: center;
+  margin: 10px;
+}
+
+/* @media (max-width =) {
+} */
